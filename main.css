@@ -63,7 +63,7 @@ section .container
 
 .platform-list img
 {
-    height: 30px;
+    height: 35px;
 }
 
 .platform-list li
@@ -152,7 +152,7 @@ form button:hover
 input:focus, 
 textarea:focus
 {
-    outline-color: rgb(168, 95, 10);
+    outline-color: rgb(226, 136, 33);
 }
 
 .social-links img
@@ -169,4 +169,11 @@ textarea:focus
 .social-links li a
 {
     text-decoration: none;
+}
+
+footer
+{
+    background-color: rgb(226, 136, 33);
+    color: #ecf0f1;
+    padding: 16px 0;
 }
